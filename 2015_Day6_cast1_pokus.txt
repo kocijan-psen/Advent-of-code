@@ -1,0 +1,5 @@
+turn on 1,2 through 2,8
+toggle 1,6 through 1,8
+turn off 6,7 trough 7,8
+turn on 4,3 through 5,4
+toggle 2,4 asdfg 6,7
